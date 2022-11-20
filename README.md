@@ -1,3 +1,3 @@
 # repositoryTest
 git repository Test
-write main branch
+readme edit 브런치 수정본
